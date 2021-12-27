@@ -62,7 +62,7 @@ experience:
   button2:
     icon: "ti-file"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/cv/resume-matt.pdf"
   
   item: 
     - logo : "images/experience/icon-1.png"
